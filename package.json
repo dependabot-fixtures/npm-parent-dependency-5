@@ -1,0 +1,22 @@
+{
+  "name": "@dependabot-fixtures/npm-parent-dependency-5",
+  "version": "1.0.0",
+  "description": "a test fixture for testing transitive dependency updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dependabot-fixtures/npm-parent-dependency-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dependabot-fixtures/npm-parent-dependency-5/issues"
+  },
+  "homepage": "https://github.com/dependabot-fixtures/npm-parent-dependency-5#readme",
+  "dependencies": {
+    "@dependabot-fixtures/npm-intermediate-dependency": "0.0.1"
+  }
+}
